@@ -95,7 +95,9 @@ me.say_hi()
   &emsp;
   <a href="https://www.instagram.com/david_sevan/" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" width="48" height="48" alt="Instagram" /></a>
   &emsp;
-  <a href="mailto:davidsevanr@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" width="48" height="48" alt="Gmail" /></a>
+  <a href="https://mail.google.com/mail/?view=cm&to=davidsevanr@gmail.com" target="_blank">
+  <img src="https://skillicons.dev/icons?i=gmail" width="48" height="48" alt="Gmail" />
+</a>
 </p>
 
 <div>
